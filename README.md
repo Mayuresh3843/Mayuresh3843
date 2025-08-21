@@ -79,7 +79,3 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayureshsalvankr" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
 </a>
 
-
----
-
-⭐️ From [Mayuresh Salvankar](https://github.com/mayuresh3843)
