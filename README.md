@@ -1,4 +1,8 @@
-## Hi there 👋 I am Mayuresh Salvankar
+<h1 align="center">Hi 👋, I'm Mayuresh Salvankar</h1>
+<h3 align="center">A passionate Developer from India</h3>
+<br>
+<br>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -61,10 +65,6 @@
   </a>
 
  
-
- 
- 
- 
 </p>
 
 
@@ -73,6 +73,8 @@
 - 📧 **Email**: salvankar3843@gmail.com  
 - 💼 [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/mayuresh-salvankar-5b6679146/))  
 - 📷 [Instagram](https://instagram.com/mayureshsalvankar)
+- <a href="https://instagram.com/mayureshsalvankar" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankettttt_____" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+
 - 🐦 [Twitter](https://twitter.com/Mayuresh_44)
 
 
