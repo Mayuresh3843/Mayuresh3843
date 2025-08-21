@@ -70,12 +70,14 @@
 
 
 ## 📫 Connect with me
-- 📧 **Email**: salvankar3843@gmail.com  
-- 💼 [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/mayuresh-salvankar-5b6679146/))  
-- 📷 [Instagram](https://instagram.com/mayureshsalvankar)
-- <a href="https://instagram.com/mayureshsalvankar" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankettttt_____" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
 
-- 🐦 [Twitter](https://twitter.com/Mayuresh_44)
+  <p align="left" dir="auto">
+<a href="https://linkedin.com/in/Mayuresh-Salvankar" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mayuresh Salvankar" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+<a href="https://instagram.com/mayureshsalvankar" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankettttt_____" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+
+<a href="https://twitter.com/Mayuresh_44" rel="nofollow">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayureshsalvankr" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
+</a>
 
 
 ---
