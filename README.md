@@ -7,11 +7,14 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<h3> 🌱 I’m currently learning React.js</h3>
-<h3> 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Java, Spring Boot, Postman API, MySQL</h3>
+<h3>🌱 I’m currently learning React.js</h3>
+<h3>💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Java, Spring Boot, Postman API, MySQL</h3>
 <h3>📫 How to reach me: salvankar3843@gmail.com </h3>
 <h3>⚡ Fun fact: I love Bike riding and I am a Gym Freak. </h3>
-        
+
+   <br>
+<br>
+
 ## 🛠️ Skills & Tools  
 
 <p align="left">
@@ -67,6 +70,8 @@
  
 </p>
 
+<br>
+<br>
 
 
 ## 📫 Connect with me
