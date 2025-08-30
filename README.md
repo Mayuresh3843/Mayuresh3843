@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<h3>🌱 I’m currently learning React.js, Node.js & MongoDB </h3>
+<h3>🌱 I’m currently learning MERN ( MongoDB, Express.js, React.js, Node.js)  </h3>
 <h3>💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Java, Spring Boot, Postman API, MySQL</h3>
 <h3>📫 How to reach me: salvankar3843@gmail.com </h3>
 <h3>⚡ Fun fact: I love Bike riding and I am a Gym Freak. </h3>
@@ -42,10 +42,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+</a>
+
+
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+
   
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
