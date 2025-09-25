@@ -8,7 +8,7 @@
 
 
 <h3>🌱 I’m currently learning MERN ( MongoDB, Express.js, React.js, Node.js )  </h3>
-<h3>💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Java, Spring Boot, Postman API, MySQL</h3>
+<h3>💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Tailwindcss, React.js, MongoDB, Express.js, Node.js, Java, Spring Boot, Postman API, MySQL</h3>
 <h3>📫 How to reach me: salvankar3843@gmail.com </h3>
 <h3>⚡ Fun fact: I love Bike riding and I am a Gym Freak. </h3>
 
