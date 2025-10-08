@@ -58,10 +58,13 @@
 ## 🧩 Featured Projects
 
 - 🔗 [**Products Page using MERN Stack**](https://github.com/Mayuresh3843/Products-Page-using-MERN-stack)  
-  *A dynamic full-stack web app using MongoDB, Express.js, React.js, and Node.js.*
+  *A dynamic full-stack web app built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows product management and real-time data interaction.*
 
 - 🔗 [**Blockchain-Based System to Detect Counterfeit Products**](https://github.com/Mayuresh3843/Blockchain-based-system-to-detect-counterfeit-products-in-supply-chain)  
-  *A decentralized app leveraging blockchain to verify product authenticity.*
+  *A decentralized blockchain application leveraging smart contracts to verify product authenticity and prevent counterfeit products in the supply chain.*
+
+- 🔗 [**SachiTech Website Project**](https://github.com/Mayuresh3843/Sachitech-website-project)  
+  *A responsive and modern website built for **SachiTech Technology for Innovators**, focusing on clean UI, mobile responsiveness, and smooth navigation using HTML, CSS, JavaScript, and Bootstrap.*
 
 ---
 
@@ -84,4 +87,4 @@
 
 ---
 
-⭐️ **“Code. Learn. Build. Repeat.”**  
+
