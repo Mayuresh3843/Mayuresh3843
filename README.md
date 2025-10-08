@@ -3,7 +3,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/62e4a9e345d0d79b1c7c1e5edc6a2e26.gif">
+
+
+
+
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning and working with **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
