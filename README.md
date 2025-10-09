@@ -91,7 +91,7 @@
   <a href="https://twitter.com/Mayuresh_44" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:salvankar3843@gmail.com">
+  <a href="salvankar3843@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
